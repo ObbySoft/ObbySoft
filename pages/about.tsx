@@ -9,7 +9,7 @@ const About = () => {
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 			<div className='mx-auto mt-10 text-center rounded-md shadow-md bg-gray-100 w-3/5 p-10'>
-				This is the about page TESTING
+				This is the about page TESTING1
 			</div>
 		</>
 	);

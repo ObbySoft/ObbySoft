@@ -9,7 +9,7 @@ export default function Home() {
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 			<div>
-				<h1 className='text-lg underline'>ObbySoft!</h1>
+				<h1 className='text-lg'>ObbySoft!</h1>
 			</div>
 		</div>
 	);

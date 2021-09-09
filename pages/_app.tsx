@@ -19,10 +19,10 @@ function MyApp({ Component, pageProps }: AppProps) {
 	}, [router.events]);
 
 	return (
-		<>
+		<div className='relative'>
 			<Navbar />
 			<Component {...pageProps} />
-		</>
+		</div>
 	);
 }
 
